@@ -1,0 +1,58 @@
+.root{
+    -fx-font-size: 16pt;
+    -fx-font-family: "Calibri";
+    -fx-base: #add8e6;
+    -fx-spacing: 20px;
+    -fx-padding: 20px;
+}
+
+.button{
+    -fx-text-fill: #008000;
+    -fx-font-size: 12pt;
+}
+
+.label
+{
+    -fx-background-color: #ccccff;
+    -fx-min-width: 88px;
+    -fx-min-height: 42px;
+    -fx-font-weight: bold;
+    -fx-padding: 4px;
+    -fx-border-style: solid;
+    -fx-border-width: 4px;
+    -fx-border-color: #00ff78;
+    }
+.text-field
+{
+    -fx-min-width: 388px;
+    -fx-text-fill: #1100cc;
+    -fx-background-color: #ccffcc;
+    -fx-font-style: italic;
+}
+
+#saveQuit{
+    -fx-text-fill: black;
+    -fx-background-color: ivory;
+}
+
+.saveCon{
+    -fx-border-style: dashed;
+    -fx-border-color: blue;
+}
+
+.button1{
+    -fx-text-fill: #ff00ff;
+    -fx-background-color: #ffcc99
+}
+
+#quit{
+    -fx-text-fill: red;
+    -fx-background-color: #ffff00;
+}
+
+#row3{
+    -fx-spacing: 10px;
+    -fx-border-color: #000000;
+    -fx-border-width: 2px;
+    -fx-padding: 5px;
+}
